@@ -1,19 +1,12 @@
-# 💬 Chatbot template
+# Studien- und Prüfungsordnungs-Chatbot
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+Ein einfacher Chatbot zur Beantwortung von Fragen zu Studien- und Prüfungsordnungen.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+## Voraussetzungen
+- Python 3.7 oder höher
+- OpenAI API-Schlüssel
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Installation
+1. Klone dieses Repository:
+2. Installiere die Abhängigkeiten:
+3. Führe den Chatbot aus:
